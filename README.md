@@ -1,2 +1,2 @@
-# fitness.github.io
+https://fitness.vishnumanda.vercel.app
 Fitness Landing Page
